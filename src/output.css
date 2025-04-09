@@ -413,6 +413,12 @@
   .bg-\[url\(\'\/img\/1f931892fc5be8ff6237784754d414fe\.jpg\'\)\] {
     background-image: url('/img/1f931892fc5be8ff6237784754d414fe.jpg');
   }
+  .bg-\[url\(\'https\:\/\/\<usuario\>\.github\.io\/\<repositorio\>\/img\/1f931892fc5be8ff6237784754d414fe\.jpg\'\)\] {
+    background-image: url('https://<usuario>.github.io/<repositorio>/img/1f931892fc5be8ff6237784754d414fe.jpg');
+  }
+  .bg-\[url\(\'img\/1f931892fc5be8ff6237784754d414fe\.jpg\'\)\] {
+    background-image: url('img/1f931892fc5be8ff6237784754d414fe.jpg');
+  }
   .bg-\[url\(\)\] {
     background-image: url();
   }
