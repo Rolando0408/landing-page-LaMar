@@ -547,6 +547,9 @@
     --tw-font-weight: var(--font-weight-semibold);
     font-weight: var(--font-weight-semibold);
   }
+  .text-\[2opx\] {
+    color: 2opx;
+  }
   .text-\[px\] {
     color: px;
   }
