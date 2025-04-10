@@ -2,6 +2,14 @@
   "name": "tw",
   "version": "1.0.0",
   "description": "",
+  "homepage": "https://github.com/Rolando0408/landing-page-LaMar#readme",
+  "bugs": {
+    "url": "https://github.com/Rolando0408/landing-page-LaMar/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rolando0408/landing-page-LaMar.git"
+  },
   "license": "ISC",
   "author": "",
   "type": "commonjs",
@@ -10,7 +18,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "@tailwindcss/cli": "^4.1.3",
+    "@tailwindcss/cli": "^4.1.3"
+  },
+  "devDependencies": {
     "tailwindcss": "^4.1.3"
   }
 }
